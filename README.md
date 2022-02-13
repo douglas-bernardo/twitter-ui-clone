@@ -1,5 +1,5 @@
 
-<h1 style="display: flex; align-items: center; justify-content: center;" class="logo">
+<h1 style="display: flex; flex-direction: column; align-items: center; justify-content: center;" class="logo">
     <img width="80" style="margin-right: 20px;" src="https://ik.imagekit.io/rcjzrqiiqm7/twitter_8tkP4cqN6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644795589540">
   Twitter - UI Clone Responsivo
 </h1>
